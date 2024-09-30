@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_World", "Hello_World\Hello_World.csproj", "{2FAA36AF-7B99-42FF-B0DB-BB5F8FA920DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Addierer", "01_Addierer\01_Addierer.csproj", "{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Anzahl Sekunden eines Monats berechnen", "02_Anzahl Sekunden eines Monats berechnen\02_Anzahl Sekunden eines Monats berechnen.csproj", "{389FBDBB-35FE-4562-9E8B-9E8F7EAEF959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Flussdiagramm implementieren", "03_Flussdiagramm implementieren\03_Flussdiagramm implementieren.csproj", "{78D82E8F-2DCC-40A5-81F8-9211A954B82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Monatsnamen", "04_Monatsnamen\04_Monatsnamen.csproj", "{4921BED1-92EC-4026-A89D-675CE9170250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FAA36AF-7B99-42FF-B0DB-BB5F8FA920DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAA36AF-7B99-42FF-B0DB-BB5F8FA920DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAA36AF-7B99-42FF-B0DB-BB5F8FA920DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAA36AF-7B99-42FF-B0DB-BB5F8FA920DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389FBDBB-35FE-4562-9E8B-9E8F7EAEF959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389FBDBB-35FE-4562-9E8B-9E8F7EAEF959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389FBDBB-35FE-4562-9E8B-9E8F7EAEF959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389FBDBB-35FE-4562-9E8B-9E8F7EAEF959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D82E8F-2DCC-40A5-81F8-9211A954B82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D82E8F-2DCC-40A5-81F8-9211A954B82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D82E8F-2DCC-40A5-81F8-9211A954B82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D82E8F-2DCC-40A5-81F8-9211A954B82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4921BED1-92EC-4026-A89D-675CE9170250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4921BED1-92EC-4026-A89D-675CE9170250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4921BED1-92EC-4026-A89D-675CE9170250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4921BED1-92EC-4026-A89D-675CE9170250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B068D4DF-6CF2-40BB-A442-98BC61D10CAF}
+	EndGlobalSection
+EndGlobal
