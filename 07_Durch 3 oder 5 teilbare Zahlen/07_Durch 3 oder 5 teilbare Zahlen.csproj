@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}</ProjectGuid>
+    <ProjectGuid>{C2D66D6A-74B8-49F9-9203-96227F77FB40}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_Addierer</RootNamespace>
-    <AssemblyName>01_Addierer</AssemblyName>
+    <RootNamespace>_07_Durch_3_oder_5_teilbare_Zahlen</RootNamespace>
+    <AssemblyName>07_Durch 3 oder 5 teilbare Zahlen</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

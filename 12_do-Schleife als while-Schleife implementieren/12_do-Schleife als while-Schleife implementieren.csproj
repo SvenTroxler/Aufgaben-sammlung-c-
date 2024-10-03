@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD639DE4-1238-4D34-9A17-E96E5B97A1E6}</ProjectGuid>
+    <ProjectGuid>{5FB4A797-EFB0-4F8C-B694-0A34E2BE4E25}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_Addierer</RootNamespace>
-    <AssemblyName>01_Addierer</AssemblyName>
+    <RootNamespace>_12_do_Schleife_als_while_Schleife_implementieren</RootNamespace>
+    <AssemblyName>12_do-Schleife als while-Schleife implementieren</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

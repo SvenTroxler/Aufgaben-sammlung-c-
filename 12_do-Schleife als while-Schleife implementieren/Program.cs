@@ -4,19 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _03_Flussdiagramm_implementieren
+namespace _12_do_Schleife_als_while_Schleife_implementieren
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            while (i <= 10)
-            {
-                Console.WriteLine(i);
-                i++;
-            }
-            Console.ReadKey();
+            //doSomething();
+
+            //while (i >= 0) ;
+            //{
+            //    doSomething();
+            //}
         }
     }
 }
