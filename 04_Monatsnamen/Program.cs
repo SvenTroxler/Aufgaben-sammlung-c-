@@ -18,10 +18,6 @@ namespace _04_Monatsnamen
 
             if (IstNummer == false)
             {
-                Console.WriteLine("Ungültig.gebe eine Ganzzahl ein.");
-            }
-            else
-            {
                 switch (Monat)
                 {
                     case 1:
